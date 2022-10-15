@@ -1,0 +1,1 @@
+Constrir una funcion que reciba una cadena digital ( Como parametro) por el usuario y que lo muestre n veces en la pantalla. El valor de n tambien es digitado por el usuario 
